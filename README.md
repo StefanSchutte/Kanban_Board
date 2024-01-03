@@ -1,6 +1,10 @@
  ## Kanban Board - Drag and Drop
 This project is a simple Kanban Board implemented using HTML, CSS, and JavaScript, featuring drag-and-drop functionality for managing tasks across different stages. The board is divided into columns representing the task status: Backlog, Progress, Complete, and On-hold.
 
+![2024-01-03_19-49](https://github.com/StefanSchutte/Kanban_Board/assets/127427422/a5eba737-4d29-4221-b5fc-c0eacd1983b2)
+
+[Deployed Site](https://kanban-board-drag-n-drop.netlify.app/)
+
 ### Features
 - Drag and Drop: Easily move tasks between different columns using drag-and-drop functionality.
 
